@@ -1,2 +1,2 @@
 # lineFollowingBot
-Proteos file will be uploaded soon :)
+A robot with two motors and two ir sensors Which will follow a line.
